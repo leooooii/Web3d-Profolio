@@ -6,7 +6,7 @@ export const PROJECTS: Project[] = [
     title: "Virutal Office",
     category: "WebGL Experience",
     description: "Explore an interactive 3D office built with Three.js. Turn on the desk lamp, play the record player, and switch perspectives to navigate around desks, chairs, monitors, keyboards, and greenery.",
-    imageUrl: "/Web3d-Profolio/public/assets/digital-office.gif",
+    imageUrl: "/Web3d-Profolio/assets/digital-office.gif",
     link: "https://leooooii.github.io/Virtual-Office/"
   },
   {
@@ -14,7 +14,7 @@ export const PROJECTS: Project[] = [
     title: "Drive Game",
     category: "WebGL Experience",
     description: "Navigate a simple 3D environment with keyboard controls, interact with objects, and explore a minimalistic game world built for fun and learning.",
-    imageUrl: "/Web3d-Profolio/public/assets/car-drive.gif",
+    imageUrl: "/Web3d-Profolio/assets/car-drive.gif",
     link: "https://leooooii.github.io/Web3d-Collection/hw1-car-sim/index.html"
   },
   {
@@ -22,7 +22,7 @@ export const PROJECTS: Project[] = [
     title: "Virtual Gallery",
     category: "WebGL Experience",
     description: "Explore a virtual gallery with multiple camera perspectives. Discover detailed oil paintings and switch viewpoints interactively to experience the art from different angles.",
-    imageUrl: "/Web3d-Profolio/public/assets/gallery.gif",
+    imageUrl: "/Web3d-Profolio/assets/gallery.gif",
     link: "https://leooooii.github.io/Web3d-Collection/hw4-virtual-gallery/index.html"
   },
   {
@@ -30,7 +30,7 @@ export const PROJECTS: Project[] = [
     title: "Ball Collision Simluation",
     category: "WebGL Physics Simulation",
     description: "Play with interactive spheres in a physics-based environment. Watch realistic collisions and dynamics as you experiment with movement and impact.",
-    imageUrl: "/Web3d-Profolio/public/assets/ball-collide.gif",
+    imageUrl: "/Web3d-Profolio/assets/ball-collide.gif",
     link: "https://leooooii.github.io/Web3d-Collection/hw2-ball-collide/index.html"
   },
   {
@@ -38,7 +38,7 @@ export const PROJECTS: Project[] = [
     title: "Train Controller",
     category: "WebGL Experience",
     description: "Control the speed of a train as it moves along a circular track. Experience smooth, interactive motion in a dynamic 3D environment.",
-    imageUrl: "/Web3d-Profolio/public/assets/train.gif",
+    imageUrl: "/Web3d-Profolio/assets/train.gif",
     link: "https://leooooii.github.io/Web3d-Collection/hw0-train/index.html"
   },
   {
@@ -46,7 +46,7 @@ export const PROJECTS: Project[] = [
     title: "Dance Animation",
     category: "WebGL Experience",
     description: "Watch a 3D character come to life with smooth dance animations in an interactive 3D scene.",
-    imageUrl: "/Web3d-Profolio/public/assets/dance.gif",
+    imageUrl: "/Web3d-Profolio/assets/dance.gif",
     link: "https://leooooii.github.io/Web3d-Collection/hw3-dancing/index.html"
   }
 ];
